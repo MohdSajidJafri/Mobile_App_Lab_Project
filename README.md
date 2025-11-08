@@ -118,4 +118,3 @@ Created for Mobile App Development Lab coursework.
 ## License
 
 This project is created for educational purposes.
-
