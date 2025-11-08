@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="enter_todo_hint">Enter your todo item...</string>
+    <string name="no_todos">No todos yet. Add one above!</string>
+    <string name="delete">Delete</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="mark_incomplete">Mark Incomplete</string>
+</resources>
+
